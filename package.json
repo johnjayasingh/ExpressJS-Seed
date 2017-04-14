@@ -1,0 +1,16 @@
+{
+  "name": "exxpress",
+  "version": "1.0.0",
+  "description": "Simple Express App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongoose": "*",
+    "body-parser": "*",
+    "express": "^4.15.2"
+  },
+  "author": "John",
+  "license": "ISC"
+}
